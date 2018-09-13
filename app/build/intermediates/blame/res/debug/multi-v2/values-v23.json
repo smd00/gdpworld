@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/danielmontoya/Documents/git/gdpworld/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "C:\\smd\\gdpworld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/8b5dbcc43ae9802e0363229c22565afc/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\monto\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0-rc01.aar\\159152117e5e8f17056973d323541623\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe93698efb404934d4b9097d6759bee1/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\monto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\e54517945ab378d36bf3ab58718420a6\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

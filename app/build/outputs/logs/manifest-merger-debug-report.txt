@@ -1,191 +1,191 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-MERGED from [com.android.support:design:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d4a758ab55c20146215bec8bd47f429b/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe93698efb404934d4b9097d6759bee1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/65dcaabbd77628115cac03a2e2ce649e/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/0844ca835cb360df0346ddfea89cec31/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/540be7adb917431fdd8b717ad93cf1f2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/bcaba23fb3e548b8adef069734bc0772/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/cc636e62220036c78fa316fc69477658/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/a47cd121ffc852b499f97efe519bff9a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/2168e2a42bd71f2d6114839c9783e0d5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/8227c1647bb7d2570166f9fdd9644760/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/6baf656762af384c55cd81f21b444ee1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/621bca8b54318c2c2b74eda71a5b3a80/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/eba278a65e442819a4889bef64af3a44/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/6b1e0568837aca9ad306d4681fbbaf35/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/3b92d2d5a06cee165e4975d3e0a074c1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/e694f2f0db99f6946bc52f1d29947c6a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/73efb3f3ec0a8ccce0ddd07fe98be99f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/0d2aa590ed3b3aca03ac26612a2dd706/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/993ce97a3afad6e29f1bc6561fbd5d9b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/0abaff68f3b86eada09059b82e809083/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e584f77d098c9cf3bffeebcaefc1d00d/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/5e94a80dc1016eaca963a2a9da1e982c/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/ee056ecadfd64630910953cd62c29691/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/8b5dbcc43ae9802e0363229c22565afc/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b4fe673f6c9fa568089b2f7cf9568ea2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/15d5a9abbcd3ea6a16e68473504b642f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/69f56d014ad987013122a7d4bd74e54d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/e91b4e6d2c0db8f8806c37a01baf3e54/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d7733661009588f46f75c52404362b15/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/5ec7b5baee90cd56d891466e215732f9/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9dba8c67d4095f9357de975fa02e466c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/67f9631b03a016467b4cdfa3c2fe4f7b/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\c0e6f48a57877fd08718c6ce7f3ca77f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\e54517945ab378d36bf3ab58718420a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c60c851d14d68d25f98c9a781e2ae1d1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\6b8f483c3a3e9efb4251076ca5a2c355\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\37813b69e5cdf9675f616a141a9f4164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\ddc24875917e71891ef7d1fc98b8867a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\01a956b8baa69ac5ecd47704500980e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\8d140908df75e13684bed97cce674469\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\4cf0caef66731d731f316ce37a3ea789\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\e1a8bcc716c0c5549c29afa95203e752\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\97d91f268fbd57953b731ff19adc497f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\c08dc40b09f8eaec8528480fd5587f21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\8eda8b8ba4eb1bad9b9bc01173f050bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\6289f1d610b8470a2bcb7ce2d2d8caa5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\c87ecb9b49e928b6b48c957c38ec65d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\0341844bb0d68108c7e2c08ab0813338\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\4198363150cba301caf02531ed84af0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\59f13c4ca2b73f0f3667eec8986ee076\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\eff321ebcc54561350d540b06949d4f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\6c8a1ea1ef5ee0da400da884876e326d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\358c1b9e03b24291f26af9dc787993f0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\3e891f28e31d1f1134222cec19b3e53b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\fa00a302accc414140449ce9d3956ef3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\159152117e5e8f17056973d323541623\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\35b648130cec96a03a52b21331242e85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\187053a7fb9212fc1f466e493cbd7255\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\a6decc43e0395bfe780f078f967910ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\2a7c28e5ffd3961c64d99545f5d6d95f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b728b5089f585831014ffc288639081a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\6e15b8b48ae93ed945227446bffc95d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\98e4f3ffd71edd2c3e1fa6fa6fb6c6b4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60598243cafcc697e39735a502431409\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:3:5-44
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:1-31:12
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:8:5-29:19
-MERGED from [com.android.support:design:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d4a758ab55c20146215bec8bd47f429b/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d4a758ab55c20146215bec8bd47f429b/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/65dcaabbd77628115cac03a2e2ce649e/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/65dcaabbd77628115cac03a2e2ce649e/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e584f77d098c9cf3bffeebcaefc1d00d/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e584f77d098c9cf3bffeebcaefc1d00d/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/5e94a80dc1016eaca963a2a9da1e982c/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/5e94a80dc1016eaca963a2a9da1e982c/AndroidManifest.xml:22:5-23:19
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\c0e6f48a57877fd08718c6ce7f3ca77f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\c0e6f48a57877fd08718c6ce7f3ca77f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c60c851d14d68d25f98c9a781e2ae1d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c60c851d14d68d25f98c9a781e2ae1d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\358c1b9e03b24291f26af9dc787993f0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\358c1b9e03b24291f26af9dc787993f0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\3e891f28e31d1f1134222cec19b3e53b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\3e891f28e31d1f1134222cec19b3e53b\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e584f77d098c9cf3bffeebcaefc1d00d/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\358c1b9e03b24291f26af9dc787993f0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:14:9-40
 activity#au.com.melbourneapps.gdpworld.activities.MainActivity
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:15:9-23:20
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:17:13-45
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:17:13-45
 	android:theme
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:18:13-56
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:16:13-52
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:16:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:19:13-22:29
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:21:27-74
 activity#au.com.melbourneapps.gdpworld.activities.CountryGDPActivity
-ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:24:9-28:20
+ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:24:9-28:20
 	android:label
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:26:13-62
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:26:13-62
 	android:theme
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:27:13-56
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:27:13-56
 	android:name
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml:25:13-58
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml:25:13-58
 uses-sdk
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d4a758ab55c20146215bec8bd47f429b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d4a758ab55c20146215bec8bd47f429b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe93698efb404934d4b9097d6759bee1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/fe93698efb404934d4b9097d6759bee1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/65dcaabbd77628115cac03a2e2ce649e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/65dcaabbd77628115cac03a2e2ce649e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/0844ca835cb360df0346ddfea89cec31/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/0844ca835cb360df0346ddfea89cec31/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/540be7adb917431fdd8b717ad93cf1f2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/540be7adb917431fdd8b717ad93cf1f2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/bcaba23fb3e548b8adef069734bc0772/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/bcaba23fb3e548b8adef069734bc0772/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/cc636e62220036c78fa316fc69477658/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/cc636e62220036c78fa316fc69477658/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/a47cd121ffc852b499f97efe519bff9a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/a47cd121ffc852b499f97efe519bff9a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/2168e2a42bd71f2d6114839c9783e0d5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/2168e2a42bd71f2d6114839c9783e0d5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/8227c1647bb7d2570166f9fdd9644760/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/8227c1647bb7d2570166f9fdd9644760/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/6baf656762af384c55cd81f21b444ee1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/6baf656762af384c55cd81f21b444ee1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/621bca8b54318c2c2b74eda71a5b3a80/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/621bca8b54318c2c2b74eda71a5b3a80/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/eba278a65e442819a4889bef64af3a44/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/eba278a65e442819a4889bef64af3a44/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/6b1e0568837aca9ad306d4681fbbaf35/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/6b1e0568837aca9ad306d4681fbbaf35/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/3b92d2d5a06cee165e4975d3e0a074c1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/3b92d2d5a06cee165e4975d3e0a074c1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/e694f2f0db99f6946bc52f1d29947c6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/e694f2f0db99f6946bc52f1d29947c6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/73efb3f3ec0a8ccce0ddd07fe98be99f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/73efb3f3ec0a8ccce0ddd07fe98be99f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/0d2aa590ed3b3aca03ac26612a2dd706/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/0d2aa590ed3b3aca03ac26612a2dd706/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/993ce97a3afad6e29f1bc6561fbd5d9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/993ce97a3afad6e29f1bc6561fbd5d9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/0abaff68f3b86eada09059b82e809083/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/0abaff68f3b86eada09059b82e809083/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e584f77d098c9cf3bffeebcaefc1d00d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e584f77d098c9cf3bffeebcaefc1d00d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/5e94a80dc1016eaca963a2a9da1e982c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/5e94a80dc1016eaca963a2a9da1e982c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/ee056ecadfd64630910953cd62c29691/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/ee056ecadfd64630910953cd62c29691/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/8b5dbcc43ae9802e0363229c22565afc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/8b5dbcc43ae9802e0363229c22565afc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b4fe673f6c9fa568089b2f7cf9568ea2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b4fe673f6c9fa568089b2f7cf9568ea2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/15d5a9abbcd3ea6a16e68473504b642f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/15d5a9abbcd3ea6a16e68473504b642f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/69f56d014ad987013122a7d4bd74e54d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/69f56d014ad987013122a7d4bd74e54d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/e91b4e6d2c0db8f8806c37a01baf3e54/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/e91b4e6d2c0db8f8806c37a01baf3e54/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d7733661009588f46f75c52404362b15/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d7733661009588f46f75c52404362b15/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/5ec7b5baee90cd56d891466e215732f9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/5ec7b5baee90cd56d891466e215732f9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9dba8c67d4095f9357de975fa02e466c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9dba8c67d4095f9357de975fa02e466c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/67f9631b03a016467b4cdfa3c2fe4f7b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/danielmontoya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/67f9631b03a016467b4cdfa3c2fe4f7b/AndroidManifest.xml:20:5-44
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\c0e6f48a57877fd08718c6ce7f3ca77f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\design-28.0.0-rc01.aar\c0e6f48a57877fd08718c6ce7f3ca77f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\e54517945ab378d36bf3ab58718420a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\e54517945ab378d36bf3ab58718420a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c60c851d14d68d25f98c9a781e2ae1d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\c60c851d14d68d25f98c9a781e2ae1d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\6b8f483c3a3e9efb4251076ca5a2c355\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-rc01.aar\6b8f483c3a3e9efb4251076ca5a2c355\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\37813b69e5cdf9675f616a141a9f4164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc01.aar\37813b69e5cdf9675f616a141a9f4164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\ddc24875917e71891ef7d1fc98b8867a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\ddc24875917e71891ef7d1fc98b8867a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\01a956b8baa69ac5ecd47704500980e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\01a956b8baa69ac5ecd47704500980e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\8d140908df75e13684bed97cce674469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\8d140908df75e13684bed97cce674469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\4cf0caef66731d731f316ce37a3ea789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\4cf0caef66731d731f316ce37a3ea789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\e1a8bcc716c0c5549c29afa95203e752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\e1a8bcc716c0c5549c29afa95203e752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\97d91f268fbd57953b731ff19adc497f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-rc01.aar\97d91f268fbd57953b731ff19adc497f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\c08dc40b09f8eaec8528480fd5587f21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-rc01.aar\c08dc40b09f8eaec8528480fd5587f21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\8eda8b8ba4eb1bad9b9bc01173f050bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\8eda8b8ba4eb1bad9b9bc01173f050bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\6289f1d610b8470a2bcb7ce2d2d8caa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\6289f1d610b8470a2bcb7ce2d2d8caa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\c87ecb9b49e928b6b48c957c38ec65d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\c87ecb9b49e928b6b48c957c38ec65d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\0341844bb0d68108c7e2c08ab0813338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\0341844bb0d68108c7e2c08ab0813338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\4198363150cba301caf02531ed84af0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\4198363150cba301caf02531ed84af0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\59f13c4ca2b73f0f3667eec8986ee076\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\59f13c4ca2b73f0f3667eec8986ee076\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\eff321ebcc54561350d540b06949d4f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\eff321ebcc54561350d540b06949d4f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\6c8a1ea1ef5ee0da400da884876e326d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\6c8a1ea1ef5ee0da400da884876e326d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\358c1b9e03b24291f26af9dc787993f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\358c1b9e03b24291f26af9dc787993f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\3e891f28e31d1f1134222cec19b3e53b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\3e891f28e31d1f1134222cec19b3e53b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\fa00a302accc414140449ce9d3956ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\fa00a302accc414140449ce9d3956ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\159152117e5e8f17056973d323541623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc01.aar\159152117e5e8f17056973d323541623\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\35b648130cec96a03a52b21331242e85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\35b648130cec96a03a52b21331242e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\187053a7fb9212fc1f466e493cbd7255\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\187053a7fb9212fc1f466e493cbd7255\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\a6decc43e0395bfe780f078f967910ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\a6decc43e0395bfe780f078f967910ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\2a7c28e5ffd3961c64d99545f5d6d95f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\2a7c28e5ffd3961c64d99545f5d6d95f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b728b5089f585831014ffc288639081a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b728b5089f585831014ffc288639081a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\6e15b8b48ae93ed945227446bffc95d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\6e15b8b48ae93ed945227446bffc95d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\98e4f3ffd71edd2c3e1fa6fa6fb6c6b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\98e4f3ffd71edd2c3e1fa6fa6fb6c6b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60598243cafcc697e39735a502431409\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\monto\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60598243cafcc697e39735a502431409\AndroidManifest.xml:20:5-44
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/danielmontoya/Documents/git/gdpworld/app/src/main/AndroidManifest.xml
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\smd\gdpworld\app\src\main\AndroidManifest.xml

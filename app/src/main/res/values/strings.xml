@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">DM9 GDP World</string>
+    <string name="app_name">GDP World</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">DM9 GDP World App</string>
-    <string name="nav_header_subtitle">daniel@montoya.com.au</string>
+    <string name="nav_header_title">Melbourne Apps</string>
+    <string name="nav_header_subtitle">melbourneapps.com.au</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="danielmontoya_text">Daniel Montoya</string>

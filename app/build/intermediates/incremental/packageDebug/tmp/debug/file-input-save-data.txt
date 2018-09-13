@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Sun Aug 26 22:43:36 AEST 2018
-1.base=/Users/danielmontoya/Documents/git/gdpworld/app/build/intermediates/transforms/dexMerger/debug/28
+#Thu Sep 13 22:15:58 AEST 2018
+1.base=C\:\\smd\\gdpworld\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
 2.path=classes.dex
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=/Users/danielmontoya/Documents/git/gdpworld/app/build/intermediates/transforms/dexMerger/debug/30
+2.base=C\:\\smd\\gdpworld\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 3.set=DEX
 2.set=DEX
 1.baseType=DIRECTORY
@@ -12,8 +12,8 @@
 count=4
 1.set=DEX
 0.path=classes.dex
-3.base=/Users/danielmontoya/Documents/git/gdpworld/app/build/intermediates/transforms/dexMerger/debug/31
+3.base=C\:\\smd\\gdpworld\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 0.set=DEX
-0.base=/Users/danielmontoya/Documents/git/gdpworld/app/build/intermediates/transforms/dexMerger/debug/29
+0.base=C\:\\smd\\gdpworld\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 2.baseType=DIRECTORY
 1.path=classes.dex
